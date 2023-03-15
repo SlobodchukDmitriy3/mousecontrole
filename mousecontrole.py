@@ -20,9 +20,3 @@ def move(event):
     root.bind('<Button-1>', b3)
     root.bind('<Motion>', move)
     root.mainloop()
-
-
-
-
-
-    
